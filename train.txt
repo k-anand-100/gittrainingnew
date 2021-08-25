@@ -1,3 +1,6 @@
 I will train Git
 I have fixed the bug.
 But I am not sure
+I have developed the feature
+You can start work
+
