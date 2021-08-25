@@ -1,1 +1,2 @@
 I will train Git
+I have developed the feature
